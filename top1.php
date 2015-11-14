@@ -1,0 +1,1 @@
+<td height="100%" background="images/repus_1.jpg" bgcolor="#76583E" style="background-position:top left; background-repeat:repeat-x "><div style="padding-left:13px; padding-top:12px"><img src="images/pripoli.jpg" width="77" height="14"></div><div class="style10" style="padding-left:12px; padding-top:5px; padding-right:12px">
